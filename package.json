@@ -1,6 +1,6 @@
 {
   "name": "@kilroy-code/nodes",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,11 +13,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kilroy-code/api-key.git"
+    "url": "git+https://github.com/kilroy-code/nodes.git"
   },
-  "homepage": "https://github.com/kilroy-code/api-key#readme",
+  "homepage": "https://github.com/kilroy-code/nodes#readme",
   "bugs": {
-    "url": "https://github.com/kilroy-code/api-key/issues"
+    "url": "https://github.com/kilroy-code/nodes/issues"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
